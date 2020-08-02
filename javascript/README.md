@@ -12,3 +12,4 @@ A JavaScript is a programming language that conforms to the ECMAScript specifica
 ### Language Design
 
 - [Language Design in the Open](https://www.youtube.com/watch?v=RJBdLelTUls)
+- [From specification to implementation](https://www.youtube.com/watch?v=uSkiDxb0m0Y)
