@@ -6,6 +6,11 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 ## Resources
 
+### Architecture
+
+- [Architectural Overview](https://github.com/microsoft/TypeScript/wiki/Architectural-Overview)
+- [Scanner used by the Parser](https://isme2n.gitbooks.io/typescript/content/docs/compiler/scanner.html)
+
 ### Optimization
 
 - [Optimizing TypeScript Memory Usage](https://swatinem.de/blog/optimizing-tsc/)
