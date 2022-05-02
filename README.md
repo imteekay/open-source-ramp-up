@@ -5,3 +5,7 @@
 - [ReactJS](./reactjs/README.md)
 - [TypeScript](./typescript/README.md)
 - [JavaScript](./javascript/README.md)
+
+## License
+
+[MIT](/LICENSE) © [TK](https://iamtk.co)
